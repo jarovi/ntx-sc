@@ -1,4 +1,4 @@
-# NeurotechX Student Clubs Initiative
+# NeurotechX Student Clubs InitiativeXXXX
 ### [https://neurotechx.github.io/ntx-sc/#/](https://neurotechx.github.io/ntx-sc/#/)
 
 NTX SC is an open-source project designed to promote collaboration and user-generated content towards emerging Neurotechnology practices.
